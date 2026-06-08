@@ -1,4 +1,4 @@
-# Hi, I'm Gilbert Onyango 👋
+# Hi, I'm Gilbert Onyango 
 
 ## Data Analyst | Machine Learning Enthusiast | Aspiring Data Scientist
 
@@ -16,7 +16,7 @@ I enjoy solving business problems using data and continuously improving my skill
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Data Analytics
 - Machine Learning
@@ -60,7 +60,7 @@ I enjoy solving business problems using data and continuously improving my skill
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### Customer Churn Prediction
 
@@ -76,7 +76,7 @@ Professional portfolio showcasing projects, technical skills, and experience.
 
 ---
 
-## 🎓 Education
+##  Education
 
 Bachelor of Science in Computer Science
 
